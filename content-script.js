@@ -85,10 +85,10 @@ function handleMouse(tar) {
 function translateSelect(sel) {
 
     // 个人appid替换
-    var appid = '20220918001516351'
+    var appid = 'x0x0xx1x001x1xxx1'
 
     // 个人密钥替换
-    var key = 'ydRcP7GJeht4zDxxx71U'
+    var key = 'yxxcoxGxxhxxxDxxx71U'
 
     var salt = (new Date).getTime()
     // var fromL = 'en'
