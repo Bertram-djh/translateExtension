@@ -1,0 +1,34 @@
+.translateBtn {
+    background: #031628 !important;
+    border: 1px solid !important;
+    text-transform: uppercase !important;
+    font-size: 20px !important;
+    padding: 2px 4px !important;
+    font-weight: 10 !important;
+    color: #f038ff !important;
+    width: 56px !important;
+    height: 32px !important;
+    position: fixed !important;
+    z-index: 9999 !important;
+    display: none;
+
+}
+
+.translateBtn:hover {
+    color: white !important;
+    border: 0 !important;
+    background-color: #f038ff !important;
+    box-shadow: 5px 5px 49px 3px rgba(240, 56, 255, 1) !important;
+}
+
+
+.translateAfter {
+    font-size: 20px !important;
+    padding: 2px !important;
+    background-color: rgb(204, 232, 207) !important;
+    border: 1px solid skyblue !important;
+    display: none;
+    position: fixed !important;
+    z-index: 9999 !important;
+    box-shadow: rgba(0, 3, 7, 0.3) 0px 0px 0px 3px !important;
+}
